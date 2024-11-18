@@ -1,5 +1,8 @@
 # (Rooted) Disjoint set
 
+> [!NOTE]
+> 可參閱[中文文檔](./README.zh_TW.md)。
+
 > [!IMPORTANT]
 > This is perhaps the most elegant, user-friendly and Python-styled implementation I've ever seen!
 
